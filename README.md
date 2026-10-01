@@ -4,3 +4,5 @@
 ``` cmd
 git submodule update --init --recursive
 ```
+
+## Ajout prochainement de la desc de PokeApp
