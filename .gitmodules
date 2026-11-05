@@ -1,0 +1,6 @@
+[submodule "Adopt_My_Pokemon_FrontEnd"]
+	path = Adopt_My_Pokemon_FrontEnd
+	url = https://github.com/Milleboy2007/Adopt_My_Pokemon_FrontEnd.git
+[submodule "Adopt_My_Pokemon_Backend"]
+	path = Adopt_My_Pokemon_Backend
+	url = https://github.com/Milleboy2007/Adopt_My_Pokemon_Backend.git
